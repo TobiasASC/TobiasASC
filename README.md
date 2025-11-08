@@ -10,12 +10,15 @@
 
 ## 🌐 Connect with me
 <div align="center">
-  <a href="https://github.com/TobiasASC" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <a href="https://github.com/TobiasASC" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="tobias.sanchezdev@gmail.com" target="_blank"<img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+
+  <a href="mailto:tobias.sanchezdev@gmail.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" alt="Gmail"/>
   </a>
 </div>
+
 
 ---
 
