@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Tobias!</h1>
 
-<div align="center">
-  <a href="https://github.com/TobiasASC">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TobiasASC&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  </a>
-</div>
+
 
 ---
 
