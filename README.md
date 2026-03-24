@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tobias!</h1>
-
-
-
+<h4>I am from Argentina and I am studying for a Bachelor's degree in systems engineering.</h4>
 ---
 
 ## 🌐 Connect with me
